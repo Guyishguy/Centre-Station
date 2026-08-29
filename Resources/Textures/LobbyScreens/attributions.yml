@@ -40,11 +40,6 @@
   copyright: "Piras314"
   source: "https://forums.goobstation.com"
 
-- files: ["greytideworldwide.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "Piras314"
-  source: "https://forums.goobstation.com"
-
 - files: ["heretic.webp"]
   license: "CC-BY-SA-3.0"
   copyright: "@Cheeki - on discord"
@@ -59,11 +54,6 @@
   license: "CC-BY-SA-3.0"
   copyright: "asardonicsailor"
   source: "https://x.com/ASardonicSailor"
-
-- files: ["StarGoob.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "H2Owe"
-  source: "https://github.com/H2Owe"
 
 - files: ["syndi_kek.webp"]
   license: "CC-BY-SA-3.0"
@@ -142,11 +132,6 @@
   copyright: "@bright1905 on discord"
   source: "https://discord.gg/goobstation"
 
-- files: ["whiskeyechowhiskeytime.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@brizby on discord"
-  source: "https://discord.gg/goobstation"
-
 - files: ["theantags.webp"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "@cattom. on discord"
@@ -157,11 +142,6 @@
   copyright: "@cattom. on discord"
   source: "https://discord.gg/goobstation"
 
-- files: ["screamemoji.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@chknnug"
-  source: "https://discord.gg/goobstation"
-
 - files: ["pathofkino.webp"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "@dlooodyspy on discord"
@@ -170,11 +150,6 @@
 - files: ["drMothroach.webp"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "@dr.cerb on discord"
-  source: "https://discord.gg/goobstation"
-
-- files: ["1000_research_assistants.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@fanciest_british_frog on discord"
   source: "https://discord.gg/goobstation"
 
 - files: ["honkhonk.webp"]
@@ -192,34 +167,9 @@
   copyright: "@iron_diamond on discord"
   source: "https://discord.gg/goobstation"
 
-- files: ["ClownSpider.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@mr.fisher on discord"
-  source: "https://discord.gg/goobstation"
-
-- files: ["SpaceStation64.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@mr.fisher on discord"
-  source: "https://discord.gg/goobstation"
-
-- files: ["JustAnotherShift.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@frfluffyfox on discord"
-  source: "https://discord.gg/goobstation"
-
 - files: ["aCalmEvac.webp"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "@navi__.  on discord"
-  source: "https://discord.gg/goobstation"
-
-- files: ["ChitnidsDiscoverFire.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@olivehojoe on discord"
-  source: "https://discord.gg/goobstation"
-
-- files: ["Get_Off_MrHonker's_Wild_Ride.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@onetruehudson on discord"
   source: "https://discord.gg/goobstation"
 
 - files: ["AnythingButYourJob.webp"]
@@ -262,11 +212,6 @@
   copyright: "@redmon2225 on discord"
   source: "https://discord.gg/goobstation"
 
-- files: ["Standoff.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@rtx420 on discord"
-  source: "https://discord.gg/goobstation"
-
 - files: ["ThreeBrizbyMoon.webp"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "@singularjames on discord"
@@ -277,29 +222,9 @@
   copyright: "@Stradfarian on discord"
   source: "https://discord.gg/goobstation"
 
-- files: ["AngrySecoff.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@sup0380 on discord"
-  source: "https://discord.gg/goobstation"
-
-- files: ["Cargonia.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@suportik on discord"
-  source: "https://discord.gg/goobstation"
-
-- files: ["ButNobodyCared.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@synthetic_086 on discord"
-  source: "https://discord.gg/goobstation"
-
 - files: ["Sa-Tider-o_Gojo.webp"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "@theninetails_ on discord"
-  source: "https://discord.gg/goobstation"
-
-- files: ["Bingle.webp"]
-  license: "CC-BY-NC-SA-3.0"
-  copyright: "@yellownes on discord"
   source: "https://discord.gg/goobstation"
 
 - files: ["CEMoneyStack.webp"]
@@ -311,9 +236,19 @@
   license: "CC-BY-NC-SA-3.0"
   copyright: "@zymshok on discord"
   source: "https://discord.gg/goobstation"
-
-- files: ["MyZaDiskGotStolen.webp"]
+  
+- files: ["honk_of_defeat2.webp"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "@zymshok on discord"
-  source: "https://discord.gg/goobstation"
+  copyright: "@malcomdekid on discord"
+  source: "https://discord.gg/GfsXckwyHY"
+
+- files: ["homefrontloadingscreen.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "@mayyplemothi on discord"
+  source: "https://discord.gg/GfsXckwyHY"
+
+- files: ["scientistwall.webp"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "@riyb_warden on discord"
+  source: "https://discord.gg/GfsXckwyHY"
 #end Converted to Webp by @xeve.
