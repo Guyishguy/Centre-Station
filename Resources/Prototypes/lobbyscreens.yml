@@ -98,12 +98,6 @@
   artist: dr.cerb
 
 - type: lobbyBackground
-  id: 1000_research_assistants
-  background: /Textures/LobbyScreens/1000_research_assistants.webp
-  name: 1000 Research Assistants
-  artist: fanciest_british_frog
-
-- type: lobbyBackground
   id: honkhonk
   background: /Textures/LobbyScreens/honkhonk.webp
   name: Honk Honk
@@ -122,41 +116,11 @@
   artist: iron_diamond
 
 - type: lobbyBackground
-  id: ClownSpider
-  background: /Textures/LobbyScreens/ClownSpider.webp
-  name: Clown Spider
-  artist: mr.fisher
-
-- type: lobbyBackground
-  id: SpaceStation64
-  background: /Textures/LobbyScreens/SpaceStation64.webp
-  name: Space Station 64
-  artist: mr.fisher
-
-- type: lobbyBackground
-  id: JustAnotherShift
-  background: /Textures/LobbyScreens/JustAnotherShift.webp
-  name: Just Another Shift
-  artist: frflyffufox
-
-- type: lobbyBackground
   id: aCalmEvac
   background: /Textures/LobbyScreens/aCalmEvac.webp
   name: A Calm Evac
   artist: navi__.
-
-- type: lobbyBackground
-  id: ChitnidsDiscoverFire
-  background: /Textures/LobbyScreens/ChitnidsDiscoverFire.webp
-  name: Chitnids Discovering Fire
-  artist: olivehojoe
-
-- type: lobbyBackground
-  id: Get_Off_MrHonker's_Wild_Ride
-  background: /Textures/LobbyScreens/Get_Off_MrHonker's_Wild_Ride.webp
-  name: I Want to Get Off Mr. Honker's Wild Ride
-  artist: onetruehudson
-
+  
 - type: lobbyBackground
   id: AnythingButYourJob
   background: /Textures/LobbyScreens/AnythingButYourJob.webp
@@ -206,12 +170,6 @@
   artist: redmon2225
 
 - type: lobbyBackground
-  id: Standoff
-  background: /Textures/LobbyScreens/Standoff.webp
-  name: Standoff
-  artist: rtx420
-
-- type: lobbyBackground
   id: ThreeBrizbyMoon
   background: /Textures/LobbyScreens/ThreeBrizbyMoon.webp
   name: Three Brizby Moon
@@ -224,34 +182,10 @@
   artist: stradfarian
 
 - type: lobbyBackground
-  id: AngrySecoff
-  background: /Textures/LobbyScreens/AngrySecoff.webp
-  name: Angry Sec Off
-  artist: sup0380
-
-- type: lobbyBackground
-  id: Cargonia
-  background: /Textures/LobbyScreens/Cargonia.webp
-  name: Cargonia
-  artist: suportik
-
-- type: lobbyBackground
-  id: ButNobodyCared
-  background: /Textures/LobbyScreens/ButNobodyCared.webp
-  name: But Nobody Cared
-  artist: synthetic_086
-
-- type: lobbyBackground
   id: Sa-Tider-o_Gojo
   background: /Textures/LobbyScreens/Sa-Tider-o_Gojo.webp
   name: Sa-Tider-o_Gojo
   artist: theninetails_
-
-- type: lobbyBackground
-  id: Bingle
-  background: /Textures/LobbyScreens/Bingle.webp
-  name: Bingle
-  artist: yellownes
 
 - type: lobbyBackground
   id: CEMoneyStack
@@ -263,12 +197,6 @@
   id: MushroomAnnihilator
   background: /Textures/LobbyScreens/MushroomAnnihilator.webp
   name: Mango Flavored Mushroom Annihilator
-  artist: zymshok
-
-- type: lobbyBackground
-  id: MyZaDiskGotStolen
-  background: /Textures/LobbyScreens/MyZaDiskGotStolen.webp
-  name: My Za Disk Got Stolen
   artist: zymshok
 
 - type: lobbyBackground
@@ -338,12 +266,6 @@
   artist: LFMoth
 
 - type: lobbyBackground
-  id: stargoob
-  background: /Textures/LobbyScreens/StarGoob.webp
-  name: GoobWars
-  artist: Jvne
-
-- type: lobbyBackground
   id: ling-in-my-vents
   background: /Textures/LobbyScreens/sec_theres_ling_in_my_vents.webp
   name: Sec theres ling in my vents
@@ -378,3 +300,21 @@
   background: /Textures/LobbyScreens/etzilshungry.webp
   name: Etzil's Hungry
   artist: IdiotVibes
+
+- type: lobbyBackground
+  id: homefront
+  background: /Textures/LobbyScreens/homefrontloadingscreen.webp
+  name: Homefront
+  artist: Mayyple
+  
+- type: lobbyBackground
+  id: hod2
+  background: /Textures/LobbyScreens/honk_of_defeat2.webp
+  name: Honk of defeat 2
+  artist: Pan
+  
+- type: lobbyBackground
+  id: scientistwall
+  background: /Textures/LobbyScreens/scientistwall.webp
+  name: Discovery
+  artist: Claire
