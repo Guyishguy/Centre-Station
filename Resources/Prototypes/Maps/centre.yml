@@ -1,0 +1,74 @@
+
+- type: gameMap
+  id: Centre
+  mapName: 'Centre'
+  mapPath: /Maps/centre.yml
+  minPlayers: 7
+  maxPlayers: 35
+  stations:
+    Centre:
+      stationProto: StandardNanotrasenStation
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: '{0} Centre Station {1}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: 'VG'
+        - type: StationEmergencyShuttle
+          emergencyShuttlePath: /Maps/Shuttles/emergency.yml
+        - type: StationJobs
+          availableJobs:
+            #service
+            Captain: [ 1, 1 ]
+            NanotrasenRepresentative: [ 1, 1 ] # Goobstation
+            BlueshieldOfficer: [ 1, 1 ] # Goobstation
+            HeadOfPersonnel: [ 1, 1 ]
+            Bartender: [ 1, 1 ]
+            Botanist: [ 1, 2 ]
+            Chef: [ 1, 2 ]
+            Janitor: [ 1, 2 ]
+            Chaplain: [ 1, 1 ]
+            Librarian: [ 1, 1 ]
+            ServiceWorker: [ 1, 2 ]
+            #engineering
+            ChiefEngineer: [ 1, 1 ]
+            AtmosphericTechnician: [ 2, 3 ]
+            StationEngineer: [ 4, 4 ]
+            TechnicalAssistant: [ 2, 2 ]
+            #medical
+            ChiefMedicalOfficer: [ 1, 1 ]
+            Chemist: [ 1, 1 ]
+            MedicalDoctor: [ 3, 4 ]
+            MedicalIntern: [ 2, 2 ]
+            Paramedic: [ 1, 1 ]
+            #science
+            ResearchDirector: [ 1, 1 ]
+            Scientist: [ 4, 4 ]
+            ResearchAssistant: [ 2, 3 ]
+            #security
+            HeadOfSecurity: [ 1, 1 ]
+            Warden: [ 1, 1 ]
+            SecurityOfficer: [ 4, 4 ]
+            Detective: [ 1, 1 ]
+            SecurityCadet: [ 2, 2 ]
+            Lawyer: [ 1, 1 ]
+            Brigmedic: [ 1, 1 ]
+            #supply
+            Quartermaster: [ 1, 1 ]
+            SalvageSpecialist: [ 1, 3 ]
+            CargoTechnician: [ 1, 3 ]
+            #civilian
+            Passenger: [ -1, -1 ]
+            Clown: [ 1, 2 ]
+            Mime: [ 1, 1 ]
+            Musician: [ 1, 2 ]
+            #silicon
+            StationAi: [ 1, 1 ]
+            Borg: [ 1, 4 ]
+
+        # Goobstation blob-config-start SMALL+
+        - type: StationBlobConfig
+          stageBegin: 25
+          stageCritical: 350
+          stageTheEnd: 700
+        # Goobstation blob-config-end
