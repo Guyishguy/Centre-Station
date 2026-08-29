@@ -7,4 +7,4 @@
 
 # goobstation edits
 greenshift-title = Greenshift
-greenshift-description = Nothing ever happens...
+greenshift-description = A nice calm* shift.

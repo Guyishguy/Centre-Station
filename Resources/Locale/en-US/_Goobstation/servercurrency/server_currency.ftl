@@ -5,16 +5,16 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-server-currency-name-singular = Goob Coin
-server-currency-name-plural = Goob Coins
+server-currency-name-singular = Dollar
+server-currency-name-plural = Dollar
 
 ## Commands
 
 server-currency-gift-command = gift
 server-currency-gift-command-description = Gifts some of your balance to another player.
 server-currency-gift-command-help = Usage: gift <player> <value>
-server-currency-gift-command-error-1 = You can't gift yourself!
-server-currency-gift-command-error-2 = You can not afford to gift this! You have a balance of {$balance}.
+server-currency-gift-command-error-1 = Success! You have lost: 0 dollar. You have gained: 0 dollar.
+server-currency-gift-command-error-2 = You only have {$balance} dollar.
 server-currency-gift-command-giver = You gave {$player} {$amount}.
 server-currency-gift-command-reciever = {$player} gave you {$amount}.
 
@@ -41,8 +41,8 @@ server-currency-get-command-help = Usage: balance:get <player>
 
 server-currency-command-completion-1 = Username
 server-currency-command-completion-2 = Value
-server-currency-command-error-1 = Unable to find a player by that name.
-server-currency-command-error-2 = Value must be an integer.
+server-currency-command-error-1 = Who?
+server-currency-command-error-2 = That's not a number.
 server-currency-command-return = {$player} has {$balance}.
 
 # 65% Update
@@ -52,11 +52,11 @@ gs-balanceui-confirm = Confirm
 
 gs-balanceui-gift-label = Transfer:
 gs-balanceui-gift-player = Player
-gs-balanceui-gift-player-tooltip = Insert the name of the player you want to send the money to
+gs-balanceui-gift-player-tooltip = Insert the name of the player you want to send the dollar to
 gs-balanceui-gift-value = Value
-gs-balanceui-gift-value-tooltip = Amount of money to transfer
+gs-balanceui-gift-value-tooltip = Amount of dollar to transfer
 
-gs-balanceui-shop-label = Tokens Store
+gs-balanceui-shop-label = Dollar Store
 gs-balanceui-shop-empty = Out of stock!
 gs-balanceui-shop-buy = Buy
 gs-balanceui-shop-footer = ⚠ Ahelp to use your token. Only 1 use per day.
@@ -64,15 +64,15 @@ gs-balanceui-shop-footer = ⚠ Ahelp to use your token. Only 1 use per day.
 gs-balanceui-shop-token-label = Tokens
 gs-balanceui-shop-tittle-label = Titles
 
-gs-balanceui-shop-buy-token-antag = Buy an Antag Token - {$price} Goob Coins
-gs-balanceui-shop-buy-token-admin-abuse = Buy an Admin Abuse Token - {$price} Goob Coins
-gs-balanceui-shop-buy-token-hat = Buy a Hat Token - {$price} Goob Coins
+gs-balanceui-shop-buy-token-antag = Buy an Antag Token - {$price} Dollar
+gs-balanceui-shop-buy-token-admin-abuse = Buy an Admin Abuse Token - {$price} Dollar
+gs-balanceui-shop-buy-token-hat = Buy a Hat Token - {$price} Dollar
 
 gs-balanceui-shop-token-antag = High Tier Antag Token
 gs-balanceui-shop-token-admin-abuse = Admin Abuse Token
 gs-balanceui-shop-token-hat = Hat Token
 
-gs-balanceui-shop-buy-token-antag-desc = Allows you become any antag. (Excluding Wizards)
+gs-balanceui-shop-buy-token-antag-desc = Allows you become any antag.
 gs-balanceui-shop-buy-token-admin-abuse-desc = Allows you to request an admin to abuse their powers against you. Admins are encouraged to go wild.
 gs-balanceui-shop-buy-token-hat-desc = An admin will give you a random hat.
 
