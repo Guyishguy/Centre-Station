@@ -44,7 +44,7 @@
   recipeUnlocks:
   - ClothingMaskMuzzleSecure
   - ClothingMaskMuzzleShock
-  position: 1,2
+  position: 1,1
   technologyPrerequisites:
   - SalvageWeapons
 

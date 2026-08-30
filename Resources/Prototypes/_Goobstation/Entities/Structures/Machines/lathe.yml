@@ -99,7 +99,6 @@
     - ToolsStatic
     - SharedBoardsStatic
     - CargoBoardsStatic
-    - CargoBoardsStaticGoob
     - CablesStatic
     - PartsStatic
     - LatheMiscStatic
@@ -110,7 +109,6 @@
     dynamicPacks:
     - AdvancedTools
     - Mining
-    - MiningLavaland # Lavaland Change
     - PowerCells
     - Equipment
     # - ServiceWeapons

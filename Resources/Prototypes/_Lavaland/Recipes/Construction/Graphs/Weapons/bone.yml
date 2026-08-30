@@ -1,56 +1,19 @@
+# TODO make crafts more complex when more ingredients are added (some plants probably)
 - type: constructionGraph
-  id: WeaponBoneAxeConstructionGraph
+  id: BoneAxeConstructionGraph
   start: start
   graph:
   - node: start
     edges:
-    - to: incompleteAxe
+    - to: axe
       steps:
       - material: Bones
         amount: 6
-        doAfter: 2
-      - material: AshwoodPlank
-        amount: 2
-        doAfter: 2
       - material: LegionSkull
         amount: 2
-        doAfter: 2
-      - material: Cloth
-        amount: 10
-        doAfter: 5
-  - node: incompleteAxe
-    entity: IncompleteBaseBallBat
-    edges:
-    - to: start
-      completed:
-      - !type:SpawnPrototype
-        prototype: MaterialAshwoodPlank1
-        amount: 2
-      - !type:SpawnPrototype
-        prototype: MaterialBones1
-        amount: 6
-      - !type:SpawnPrototype
-        prototype: MaterialLegionSkull1
-        amount: 2
-      - !type:SpawnPrototype
-        prototype: MaterialCloth10
-        amount: 1
-      - !type:DeleteEntity {}
-      steps:
-      - tool: Cutting
-        doAfter: 2
-      - tool: Prying
-        doAfter: 2
-    - to: axe
-      completed:
-      - !type:AdminLog
-        message: "Construction"
-        impact: High
-      steps:
-      - tool: Slicing
-        doAfter: 6
+        doAfter: 10
   - node: axe
-    entity: WeaponBoneAxe
+    entity: BoneAxe
 
 - type: constructionGraph
   id: DaggerBoneConstructionGraph

@@ -102,9 +102,9 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 7
         - ReagentId: Vitamin
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 3
   - type: Item
     sprite: Objects/Consumable/Food/burger.rsi
     shape:
@@ -289,7 +289,7 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 3
         - ReagentId: Protein
           Quantity: 6
         - ReagentId: Vitamin
@@ -325,9 +325,9 @@
         maxVol: 33
         reagents:
         - ReagentId: Nutriment
-          Quantity: 20 # Goobstation - cooked food more useful
+          Quantity: 17
         - ReagentId: Vitamin
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 9
   - type: Sprite
     state: bigbite
   - type: Tag
@@ -426,7 +426,7 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 3
         - ReagentId: Vitamin
           Quantity: 7
         - ReagentId: Protein
@@ -468,11 +468,11 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 3
         - ReagentId: Protein
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 7
         - ReagentId: Vitamin
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 1
         - ReagentId: Mayo
           Quantity: 3
   - type: Tag
@@ -676,11 +676,11 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 3
         - ReagentId: Protein
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 7
         - ReagentId: Vitamin
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 1
   - type: Tag
     tags:
     - Meat
@@ -711,7 +711,7 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 8
         - ReagentId: Licoxide
           Quantity: 5
 # Tastes like bun, pure electricity.
@@ -932,11 +932,11 @@
         maxVol: 30
         reagents:
         - ReagentId: Nutriment
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 2
         - ReagentId: Protein
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 7
         - ReagentId: Vitamin
-          Quantity: 10 # Goobstation - cooked food more useful
+          Quantity: 4
         - ReagentId: BbqSauce
           Quantity: 1
   - type: Tag
@@ -1009,7 +1009,7 @@
         maxVol: 25
         reagents:
         - ReagentId: Nutriment
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 2
         - ReagentId: Protein
           Quantity: 6
         - ReagentId: Vitamin
@@ -1332,7 +1332,7 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 3
         - ReagentId: Protein
           Quantity: 4
         - ReagentId: Vitamin
@@ -1390,9 +1390,9 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 3
         - ReagentId: Protein
-          Quantity: 5 # Goobstation - cooked food more useful
+          Quantity: 4
         - ReagentId: Vitamin
           Quantity: 7
   - type: Tag

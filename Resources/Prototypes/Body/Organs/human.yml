@@ -102,17 +102,13 @@
     solutions:
       organ:
         reagents:
-        - ReagentId: UncookedAnimalProteins #Goob
+        - ReagentId: Nutriment
           Quantity: 10
         - ReagentId: Cognizine # goob edit
           Quantity: 5 # goob edit
-        - ReagentId: GreyMatter # goob edit
-          Quantity: 5 # goob edit
       food:
-        maxVol: 15 # goob edit
+        maxVol: 10 # goob edit
         reagents:
-        - ReagentId: UncookedAnimalProteins #Goob
-          Quantity: 5 #Goob
         - ReagentId: GreyMatter
           Quantity: 5
         - ReagentId: Cognizine # goob edit

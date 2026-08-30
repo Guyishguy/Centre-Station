@@ -52,10 +52,6 @@
     {
       "name": "miner_l",
       "directions": 4
-    },
-    {
-      "name": "miner_moving",
-      "directions": 4
     }
   ]
 }

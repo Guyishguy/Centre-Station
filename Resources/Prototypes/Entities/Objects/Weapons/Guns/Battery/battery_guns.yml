@@ -1128,8 +1128,8 @@
     tags:
     - HighRiskItem
     - Sidearm
-#  - type: StealTarget # Goobstation - Remove Energy Magnum
-#    stealGroup: WeaponEnergyMagnum # Goobstation - Remove Energy Magnum
+  - type: StealTarget
+    stealGroup: WeaponEnergyMagnum
   - type: Gun
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser_cannon.ogg

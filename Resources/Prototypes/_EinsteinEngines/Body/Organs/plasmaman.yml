@@ -137,12 +137,10 @@
     solutions:
       organ:
         reagents:
-        - ReagentId: UncookedAnimalProteins #goob
+        - ReagentId: Nutriment
           Quantity: 5
         - ReagentId: Plasma
           Quantity: 2.5
-        - ReagentId: GreyMatter #goob
-          Quantity: 5
       food:
         maxVol: 10
         reagents:

@@ -22,9 +22,9 @@
         maxVol: 15
         reagents:
         - ReagentId: Nutriment
-          Quantity: 2 # Goobstation - junk food less useful
+          Quantity: 4
         - ReagentId: Protein
-          Quantity: 2 # Goobstation - junk food less useful
+          Quantity: 4
         - ReagentId: CocoaPowder
           Quantity: 1
         - ReagentId: Theobromine
