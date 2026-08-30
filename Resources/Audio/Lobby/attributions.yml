@@ -97,25 +97,25 @@
   
 - files: ["GAx4Tree.ogg"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "Doorhead"
+  copyright: "GAx4.Tree by Doorhead"
   source: "https://www.youtube.com/watch?v=X_yxOr-Yo0c"
   
 - files: ["my_awesome_project_003.ogg"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "WebCreature"
+  copyright: "my_awesome_project_003 by WebCreature"
   source: "https://webcreature.straw.page/"
   
 - files: ["the_bureau.ogg"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "Corru Observer"
+  copyright: "The Bureau by Corru Observer"
   source: "https://corru.observer/"
   
 - files: ["milkyway_explore.ogg"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "Subset Games"
+  copyright: "Milkyway (Explore) by Subset Games"
   source: "https://www.youtube.com/watch?v=lwJ8L0QL_qY"
   
 - files: ["paradise.ogg"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "Vozaxhi"
+  copyright: paradise.ogg by "Vozaxhi"
   source: "https://www.youtube.com/watch?v=o31e_y7e08o"
