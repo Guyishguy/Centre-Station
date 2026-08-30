@@ -62,12 +62,6 @@
   artist: bright1905
 
 - type: lobbyBackground
-  id: whiskeyechowhiskeytime
-  background: /Textures/LobbyScreens/whiskeyechowhiskeytime.webp
-  name: Whiskey Echo Whiskey Time
-  artist: brizby
-
-- type: lobbyBackground
   id: theantags
   background: /Textures/LobbyScreens/theantags.webp
   name: The Antags
