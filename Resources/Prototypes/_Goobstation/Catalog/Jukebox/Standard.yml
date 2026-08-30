@@ -1,54 +1,6 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
 - type: jukebox
-  id: skubstep
-  name: Finket - Skubstep
-  path:
-    path: /Audio/Lobby/skubstep.ogg
-
-- type: jukebox
-  id: sneeds
-  name: Burgerchild - Sneeds Feed and Seed
-  path:
-    path: /Audio/Lobby/sneedsfeedandseed.ogg
-
-- type: jukebox
-  id: clownwmv
-  name: Admiral Hippie - Clown.wmv
-  path:
-    path: /Audio/Lobby/clownwmv.ogg
-
-- type: jukebox
-  id: clownalwayswins
-  name: NИTRODE - Clown Always Wins
-  path:
-    path: /Audio/Lobby/clownalwayswins.ogg
-
-- type: jukebox
-  id: horn
-  name: Scruq - Horn!
-  path:
-    path: /Audio/Lobby/horn.ogg
-
-- type: jukebox
-  id: thewizard
-  name: Chris Remo - The Wizard
-  path:
-    path: /Audio/Lobby/thewizard.ogg
-
-- type: jukebox
-  id: dawsonschristian
-  name: Vic Tyler - Dawson's Christian
-  path:
-    path: /Audio/Lobby/dawsonschristian.ogg
-
-- type: jukebox
-  id: skubstub
-  name: DJ B1G YAPPA - SKUBSTUB
-  path:
-    path: /Audio/Lobby/skubstub.ogg
-
-- type: jukebox
   id: violet
   name: Mrjajkes - Violet
   path:
@@ -107,12 +59,6 @@
   name: ZhayTee - Absconditus
   path:
     path: /Audio/Lobby/absconditus.ogg
-
-- type: jukebox
-  id: spaceasshole
-  name: Chris Remo - Space Asshole
-  path:
-    path: /Audio/Lobby/space_asshole.ogg
 
 - type: jukebox
   id: endless_space
@@ -227,9 +173,3 @@
   name: mrjajkes - One Against All
   path:
     path: /Audio/StationEvents/one_against_all.ogg
-
-- type: jukebox
-  id: Chudshift
-  name: deerdestroyer - Chudshift
-  path:
-    path: /Audio/Lobby/CHUDSHIFT.ogg

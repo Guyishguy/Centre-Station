@@ -236,12 +236,6 @@
   artist: Piras314
 
 - type: lobbyBackground
-  id: greytideworldwide
-  background: /Textures/LobbyScreens/greytideworldwide.webp
-  name: Greytide Worldwide
-  artist: Piras314
-
-- type: lobbyBackground
   id: heretic
   background: /Textures/LobbyScreens/heretic.webp
   name: Heretic
@@ -258,12 +252,6 @@
   background: /Textures/LobbyScreens/tideractivities.webp
   name: Tider Activities
   artist: asardonicsailor
-
-- type: lobbyBackground
-  id: moneyspread-bingle
-  background: /Textures/LobbyScreens/binglemoneyspread.webp
-  name: Bingle Flex
-  artist: LFMoth
 
 - type: lobbyBackground
   id: ling-in-my-vents

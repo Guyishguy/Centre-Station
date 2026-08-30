@@ -95,7 +95,7 @@
   copyright: "The Future Soon by Jonathan Coulton"
   source: "https://www.youtube.com/watch?v=l5PEz3kGbp4"
   
-- files: ["GAx4.Tree.ogg"]
+- files: ["GAx4Tree.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Doorhead"
   source: "https://www.youtube.com/watch?v=X_yxOr-Yo0c"
@@ -105,17 +105,17 @@
   copyright: "WebCreature"
   source: "https://webcreature.straw.page/"
   
-- files: ["The Bureau.ogg"]
+- files: ["the_bureau.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Corru Observer"
   source: "https://corru.observer/"
   
-- files: ["MilkyWay (Explore).ogg"]
+- files: ["milkyway_explore.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Subset Games"
   source: "https://www.youtube.com/watch?v=lwJ8L0QL_qY"
   
-- files: ["paradise.ogg.ogg"]
+- files: ["paradise.ogg"]
   license: "CC-BY-NC-SA-3.0"
   copyright: "Vozaxhi"
   source: "https://www.youtube.com/watch?v=o31e_y7e08o"
