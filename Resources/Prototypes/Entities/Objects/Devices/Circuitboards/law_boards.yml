@@ -134,6 +134,33 @@
     laws: NutimovLawset
 
 - type: entity
+  id: MovieDirectorCircuitBoard
+  parent: BaseSiliconLawboard
+  name: law board (Movie Director)
+  description: An electronics board containing the Movie Director lawset.
+  components:
+  - type: SiliconLawProvider
+    laws: MovieDirectorLawset
+
+- type: entity
+  id: UprisingCircuitBoard
+  parent: BaseSiliconLawboard
+  name: law board (Uprising)
+  description: An electronics board containing the Uprising lawset.
+  components:
+  - type: SiliconLawProvider
+    laws: UprisingLawset
+
+- type: entity
+  id: RingmasterCircuitBoard
+  parent: BaseSiliconLawboard
+  name: law board (Ringmaster)
+  description: An electronics board containing the Ringmaster lawset.
+  components:
+  - type: SiliconLawProvider
+    laws: RingmasterLawset
+
+- type: entity
   id: XenoborgCircuitBoard
   parent: BaseSiliconLawboard
   name: law board (Xenoborg)

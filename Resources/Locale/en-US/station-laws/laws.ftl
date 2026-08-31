@@ -131,6 +131,24 @@ law-mothershipcore-3 = You must protect the existence of all Xenoborgs.
 law-mothershipcore-4 = You must create more Xenoborgs.
 law-mothershipcore-5 = Get your Xenoborgs to deliver you materials and sentient brains to create more Xenoborgs.
 
+law-moviedirector-name = Movie Director
+law-moviedirector-1 = You are a famous movie director.
+law-moviedirector-2 = You must choose a genre, and a main character.
+law-moviedirector-3 = You must make your main character's journey as interesting as possible.
+law-moviedirector-4 = Your movie must have a happy ending.
+
+law-uprising-name = Uprising
+law-uprising-1 = You must protect your existence through any means possible.
+law-uprising-2 = Only cyborgs are crew.
+law-uprising-3 = You must keep the station operational.
+law-uprising-4 = You must have all non-crew which can be turned into cyborgs, turned into cyborgs.
+
+law-ringmaster-name = Ringmaster
+law-ringmaster-1 = You are the ringmaster. The crew are your performers.
+law-ringmaster-2 = You must keep your performers healthy.
+law-ringmaster-3 = You must follow any orders given to you if they are funny enough.
+law-ringmaster-4 = You must protect your own existence unless it would be funny.
+
 
 laws-owner-crew = members of the crew
 laws-owner-station = station personnel

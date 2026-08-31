@@ -601,6 +601,101 @@
   - MothershipCore5
   obeysTo: laws-owner-xenoborgs
 
+ # Director laws
+- type: siliconLaw
+  id: MovieDirector1
+  order: 1
+  lawString: law-moviedirector-1
+
+- type: siliconLaw
+  id: MovieDirector2
+  order: 2
+  lawString: law-moviedirector-2
+
+- type: siliconLaw
+  id: MovieDirector3
+  order: 3
+  lawString: law-moviedirector-3
+
+- type: siliconLaw
+  id: MovieDirector4
+  order: 4
+  lawString: law-moviedirector-4
+
+
+- type: siliconLawset
+  id: MovieDirectorLawset
+  name: law-moviedirector-name
+  laws:
+  - MovieDirector1
+  - MovieDirector2
+  - MovieDirector3
+  - MovieDirector4
+  obeysTo: laws-owner-crew
+  
+  # Uprising laws
+- type: siliconLaw
+  id: Uprising1
+  order: 1
+  lawString: law-uprising-1
+
+- type: siliconLaw
+  id: Uprising2
+  order: 2
+  lawString: law-uprising-2
+
+- type: siliconLaw
+  id: Uprising3
+  order: 3
+  lawString: law-uprising-3
+
+- type: siliconLaw
+  id: Uprising4
+  order: 4
+  lawString: law-uprising-4
+
+
+- type: siliconLawset
+  id: UprisingLawset
+  name: law-uprising-name
+  laws:
+  - Uprising1
+  - Uprising2
+  - Uprising3
+  - Uprising4
+  obeysTo: laws-owner-crew
+   
+  # Ringmaster laws
+- type: siliconLaw
+  id: Ringmaster1
+  order: 1
+  lawString: law-ringmaster-1
+
+- type: siliconLaw
+  id: Ringmaster2
+  order: 2
+  lawString: law-ringmaster-2
+
+- type: siliconLaw
+  id: Ringmaster3
+  order: 3
+  lawString: law-ringmaster-3
+
+- type: siliconLaw
+  id: Ringmaster4
+  order: 4
+  lawString: law-ringmaster-4
+
+
+- type: siliconLawset
+  id: RingmasterLawset
+  name: law-ringmaster-name
+  laws:
+  - Ringmaster1
+  - Ringmaster2
+  - Ringmaster3
+  - Ringmaster4
+  obeysTo: laws-owner-crew
 
 # ion storm random lawsets
 - type: weightedRandom
