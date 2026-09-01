@@ -55,3 +55,26 @@
     - Recyclable
     - HamsterWearable
     - WhitelistChameleon
+
+########################################################
+#       NEW                                             
+########################################################
+
+- type: entity
+  parent: ClothingNeckTieBase
+  id: ClothingNeckBigBowBrightRed
+  name: bright red neck bow
+  description: An oversized bright red bow tie.
+  components:
+  - type: Sprite
+    sprite: Clothing/Neck/CentreNew/bigbowbrightred.rsi
+  - type: Clothing
+    sprite: Clothing/Neck/CentreNew/bigbowbrightred.rsi
+  - type: Tag
+    tags:
+    - WhitelistChameleon
+    - ClothMade
+    - Recyclable
+  - type: PhysicalComposition #Goobstation - Recycle update
+    materialComposition:
+      Cloth: 25

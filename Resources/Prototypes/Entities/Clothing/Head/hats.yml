@@ -1593,3 +1593,23 @@
     tags:
     - PetWearable
     - CorgiWearable
+
+########################################################
+#       NEW                                             
+########################################################
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatJesterProblemsClown
+  name: starry jester hat
+  description: A green jester hat covered in little stars.
+  components:
+    - type: Sprite
+      sprite: Clothing/Head/CentreNew/jester_problemsclown.rsi
+    - type: Clothing
+      sprite: Clothing/Head/CentreNew/jester_problemsclown.rsi
+    - type: HideLayerClothing
+      layers:
+        Hair: HEAD
+        HeadTop : HEAD
+        HeadSide : HEAD

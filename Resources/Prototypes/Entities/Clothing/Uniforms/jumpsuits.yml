@@ -1416,3 +1416,19 @@
     sprite: Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi
   - type: Clothing
     sprite: Clothing/Uniforms/Jumpsuit/familiar_garbs.rsi
+
+
+########################################################
+#       NEW                                             
+########################################################
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformJumpsuitJesterProblemsClown
+  name: starry jester suit
+  description: A very colorful jester costume covered in little stars.
+  components:
+  - type: Sprite
+    sprite: Clothing/Uniforms/CentreNew/jester_problemsclown.rsi
+  - type: Clothing
+    sprite: Clothing/Uniforms/CentreNew/jester_problemsclown.rsi

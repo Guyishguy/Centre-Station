@@ -30,3 +30,22 @@
   - type: Thieving
     stripTimeReduction: 2
     stealthy: true
+    
+########################################################
+#       NEW                                             
+########################################################
+
+- type: entity
+  parent: ClothingHandsButcherable
+  id: ClothingHandsGlovesFingerlessProblemsClown
+  name: starry fingerless gloves
+  description: Fingerless jester gloves, which jesters are known to have.
+  components:
+  - type: Sprite
+    sprite: Clothing/Hands/CentreNew/fingerless_problemsclown.rsi
+  - type: Clothing
+    sprite: Clothing/Hands/CentreNew/fingerless_problemsclown.rsi
+  - type: DamageOnInteractProtection
+    damageProtection:
+      flatReductions:
+        Heat: 0 # no protection

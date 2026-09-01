@@ -30,6 +30,24 @@
           components:
           - Sharp
 
+# too depressed to jingle around
+- type: entity
+  abstract: true
+  parent: [ClothingShoesBaseButcherable, ClothingSlotBase]
+  id: ClothingShoesSadClownBase
+  components:
+  - type: ItemSlots
+    slots:
+      item:
+        name: clothing-boots-sidearm
+        whitelist:
+          tags:
+          - Knife
+          - ToySidearm
+        blacklist:
+          components:
+          - Sharp
+
 - type: entity
   parent: ClothingShoesClownBase
   id: ClothingShoesClown
@@ -296,3 +314,23 @@
       collection: FootstepSkates
       params:
         variation: 0.08
+
+########################################################
+#       NEW                                             
+########################################################
+
+- type: entity
+  parent: ClothingShoesSadClownBase
+  id: ClothingShoesJesterProblemsClown
+  name: starry jester shoes
+  description: Jingly jester shoes, each shoe is decorated with either yellow stripes or yellow diamonds.
+  components:
+    - type: Sprite
+      sprite: Clothing/Shoes/CentreNew/jester_problemsclown.rsi
+    - type: Clothing
+      sprite: Clothing/Shoes/CentreNew/jester_problemsclown.rsi
+    - type: FootstepModifier
+      footstepSoundCollection:
+        collection: FootstepJester
+        params:
+          variation: 0.07
