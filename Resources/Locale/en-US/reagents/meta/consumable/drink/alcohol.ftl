@@ -258,7 +258,7 @@ reagent-name-patron = Patrón
 reagent-desc-patron = Tequila with silver in it, a favorite of alcoholic women in the club scene.
 
 reagent-name-pina-colada = Piña Colada
-reagent-desc-pina-colada = For getting lost in the rain.
+reagent-desc-pina-colada = For getting caught in the rain.
 
 reagent-name-radler = radler
 reagent-desc-radler = A simple but staple classic, straight out of Space-Germany.
