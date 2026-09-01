@@ -255,3 +255,22 @@
     currentLabel: reagent-name-cream
   - type: Sprite
     sprite: Objects/Consumable/Drinks/cream.rsi
+
+########################################################
+#       NEW                                             
+########################################################
+
+- type: entity
+  parent: DrinkCartonSmallBaseFull
+  id: DrinkCoconutCreamCan
+  name: cream of coconut
+  description: It's not a real piña colada without this specific brand of the stuff.
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        reagents:
+        - ReagentId: CreamOfCoconut
+          Quantity: 50
+  - type: Sprite
+    sprite: Objects/Consumable/Drinks/coconutcream.rsi
